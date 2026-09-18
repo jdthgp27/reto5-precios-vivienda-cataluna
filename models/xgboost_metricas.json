@@ -1,0 +1,26 @@
+{
+  "mejores_params": {
+    "subsample": 0.8,
+    "reg_lambda": 20.0,
+    "reg_alpha": 1.0,
+    "n_estimators": 200,
+    "min_child_weight": 10,
+    "max_depth": 3,
+    "learning_rate": 0.03,
+    "colsample_bytree": 0.7
+  },
+  "train": {
+    "modelo": "XGBoost (train)",
+    "rmse": 13.388,
+    "mae": 7.433,
+    "r2": 0.6391,
+    "mape": 39.95
+  },
+  "test": {
+    "modelo": "XGBoost (test)",
+    "rmse": 15.771,
+    "mae": 9.257,
+    "r2": 0.6172,
+    "mape": 36.97
+  }
+}

@@ -8,15 +8,17 @@ data/raw/
 data/interim/
 data/processed/
 
-# Modelos
+# Modelos: excluir binarios pesados, mantener JSON/CSV ligeros
 models/*.pkl
-models/*.json
+models/*.h5
+models/*.keras
 
 # Python
 __pycache__/
 *.pyc
 *.pyo
 .ipynb_checkpoints/
+*.ipynb_checkpoints
 
 # Sistema
 .DS_Store
@@ -28,3 +30,14 @@ Thumbs.db
 
 # Variables de entorno
 .env
+
+# Duplicados (el dashboard vive en docs/ y reports/)
+docs/figuras/
+docs/index.html
+docs/autoevaluacion.md
+docs/decisiones_metodologicas.md
+# Duplicados (el dashboard vive en docs/ y reports/)
+docs/figuras/
+docs/index.html
+docs/autoevaluacion.md
+docs/decisiones_metodologicas.md

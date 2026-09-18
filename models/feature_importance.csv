@@ -1,0 +1,33 @@
+feature,importance
+rolling_12m,0.20735063
+rolling_6m,0.1700544
+rolling_3m,0.13451186
+peso_barrio_en_ciudad,0.13232236
+lag_12,0.10653123
+barrio_te,0.05739916
+lag_1,0.04522304
+pct_residencial,0.03233693
+es_agosto,0.03145931
+mes_sin,0.015056269
+tendencia,0.014715267
+mes_cos,0.012170094
+peso_barrio_en_distrito,0.011816262
+trimestre,0.008435672
+lag_2,0.0043300493
+lag_3,0.0038778745
+diff_1,0.003568096
+dist_Sant Martí,0.00345737
+pct_comercial,0.003235761
+dist_Eixample,0.0021483484
+pct_equipaments,0.0
+pct_aparcament,0.0
+pct_turístic,0.0
+pct_oficina,0.0
+dist_Gràcia,0.0
+dist_Ciutat Vella,0.0
+dist_Horta-Guinardó,0.0
+dist_Les Corts,0.0
+dist_Sant Andreu,0.0
+dist_Nou Barris,0.0
+dist_Sants-Montjuïc,0.0
+dist_Sarrià-Sant Gervasi,0.0
