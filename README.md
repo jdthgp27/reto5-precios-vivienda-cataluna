@@ -1,4 +1,4 @@
-# Predicción de Precios de Vivienda en 
+# Predicción de Precios de Vivienda en Catalunya
 
 [![Dashboard](https://img.shields.io/badge/🌐_Dashboard-Ver_en_vivo-2E86AB?style=for-the-badge)](https://prediccion-vivienda-bcn.netlify.app)
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
