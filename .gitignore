@@ -1,0 +1,30 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Datos (pesados y sensibles)
+data/raw/
+data/interim/
+data/processed/
+
+# Modelos
+models/*.pkl
+models/*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Variables de entorno
+.env
