@@ -1,4 +1,10 @@
-# Predicción de Precios de Vivienda en Cataluña
+# Predicción de Precios de Vivienda en 
+
+[![Dashboard](https://img.shields.io/badge/🌐_Dashboard-Ver_en_vivo-2E86AB?style=for-the-badge)](https://prediccion-vivienda-bcn.netlify.app)
+[![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2.0-FF6600?style=for-the-badge)](https://xgboost.readthedocs.io/)
+[![SHAP](https://img.shields.io/badge/SHAP-0.52-8A2BE2?style=for-the-badge)](https://shap.readthedocs.io/)
+
 ## Reto 5 · Business Intelligence y Big Data · Curso 6
 
 ### Objetivo
@@ -106,6 +112,10 @@ Documentos adicionales:
 
 Ver [índice completo](reports/visualizaciones.md).
 
+## 🌐 Dashboard interactivo
+
+**Ver resultados en vivo**: [prediccion-vivienda-bcn.netlify.app](https://prediccion-vivienda-bcn.netlify.app)
+
 ### Presentaciones
 
 - [**Presentación 1: Metodología**](reports/presentacion/presentacion_1_metodologia.pptx)
@@ -146,6 +156,9 @@ Entregables del reto
 ☑ 2. Documentación completa (reports/documentacion/)
 ☑ 3. Visualizaciones (reports/figuras/)
 ☑ 4. Presentación ejecutiva (reports/presentacion/)
+
+| **Dashboard interactivo (Netlify)** | [prediccion-vivienda-bcn.netlify.app](https://prediccion-vivienda-bcn.netlify.app) |
+
 Trabajo futuro
 Integrar Idescat: añadir población y renta por barrio.
 
